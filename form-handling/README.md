@@ -19,15 +19,19 @@ A lightweight Laravel application focused entirely on mastering backend data flo
 
 * **The Form UI:**
 
-  <img width="960" height="540" alt="Form UI" src="https://github.com/user-attachments/assets/701a12b9-be74-4f6d-a576-2a323b677657" />
+  <img width="960" height="466" alt="image" src="https://github.com/user-attachments/assets/ed414985-0fc0-4b59-8f72-798351ccabef" />
+
 
 * **Validation Errors in Action:**
 
-  <img width="960" height="540" alt="Validation Errors" src="https://github.com/user-attachments/assets/00fa2e29-193a-4014-9b67-b621960d6129" />
+  
+  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/3cf2de35-738d-4f96-8837-53f02f251713" />
+
+
 
 * **Data Recap View:**
 
-  <img width="696" height="435" alt="Data Recap" src="https://github.com/user-attachments/assets/f9d2620d-90e9-4b56-9355-45503e10ef4e" />
+  <img width="960" height="468" alt="image" src="https://github.com/user-attachments/assets/3a014bd7-20be-4196-872d-1a00385f22fb" />
 
 ## 🚀 How to Run Locally
 
