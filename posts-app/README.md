@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="247" height="270" alt="posts app logo" src="https://github.com/user-attachments/assets/72e763d4-ce91-4227-952b-def370b707e3" />
+  <img width="247" height="270" alt="image" src="https://github.com/user-attachments/assets/1ef0028f-ad6f-4ca9-a0c3-4e81356dbe00" />
+
 </p>
 
 # 📝 Laravel Posts App — Full CRUD
