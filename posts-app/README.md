@@ -31,13 +31,18 @@ A clean Laravel application focused on mastering the full **CRUD cycle**: creati
 ## 📸 Previews
 
 * **All Posts View:**
-*(Add your screenshot here)*
+<img width="959" height="471" alt="image" src="https://github.com/user-attachments/assets/56940976-3f42-4635-adde-5cace9ba6234" />
+
 
 * **Create / Edit Form:**
-*(Add your screenshot here)*
+<img width="960" height="468" alt="image" src="https://github.com/user-attachments/assets/646a72ac-8097-475c-81d8-e8cc4c6bce58" />
+<img width="960" height="469" alt="image" src="https://github.com/user-attachments/assets/25f63f9a-7a86-4884-a1f0-fea096aa3d49" />
+
+
 
 * **Validation Errors in Action:**
-*(Add your screenshot here)*
+<img width="960" height="467" alt="image" src="https://github.com/user-attachments/assets/8afcf72b-5592-4b5b-9726-847ec9dcebf1" />
+
 
 ## 🚀 How to Run Locally
 
