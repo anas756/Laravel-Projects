@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="247" height="270" alt="image" src="https://github.com/user-attachments/assets/72e763d4-ce91-4227-952b-def370b707e3" />
+  <img width="238" height="270" alt="image" src="https://github.com/user-attachments/assets/086b5e65-4de9-494a-ac38-fc2ab5f7335c" />
+
 </p>
 
 # 📝 Laravel Form Handling & Validation
